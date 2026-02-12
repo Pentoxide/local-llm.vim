@@ -25,10 +25,10 @@ None for the plugin, but those should be available:
 
 ## Commands
 
-| Command                 | Description                                  |
-| ---                     | ---                                          |
-| `:LLLmPrompt [prompt]`  | Write a prompt and it return result          |
-| `:LLLmExplain [prompt]` | Select and write prompt for explain or help  |
+| Command                 | Description                                      |
+| ---                     | ---                                              |
+| `:LLLmPrompt [prompt]`  | Write a prompt and it will return result         |
+| `:LLLmExplain [prompt]` | Select and write prompt for explaination or help |
 
 - LLLmPrompt includes "Exclude explanation and example", which sometimes doesn't work
 - Selection works with **Visual**, **Visual Line**, or **Visual Block**
