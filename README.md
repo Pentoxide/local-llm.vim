@@ -31,7 +31,7 @@ Plug 'pentoxide/local-llm.vim'
 | `:LLLmExplain [prompt]` | Select code and write prompt for explaination or help |
 
 - LLLmPrompt includes "Exclude explanation and example", which sometimes doesn't work
-- Selection works with **Visual**, **Visual Line**, or **Visual Block**
+- Selection works with **Visual**, **Visual Line** and **Visual Block**
 
 ## Customization
 
